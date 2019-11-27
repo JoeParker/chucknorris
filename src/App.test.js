@@ -39,7 +39,7 @@ describe("render tests", () => {
 
 	it("all buttons are created", () => {
 		const wrap = shallow(<App/>);
-		expect(wrap.find("button")).toHaveLength(3);
+		expect(wrap.find("button")).toHaveLength(4);
 	});
 
 	it("all textboxes are created", () => {
