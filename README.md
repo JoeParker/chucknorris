@@ -35,4 +35,4 @@ Builds the app for production to the `build` folder.<br />
 
 --
 
-Style loosely based on [https://www.co-operative.coop/](Co-operative applications).
+Style loosely based on [example Co-operative applications](https://www.co-operative.coop/).
