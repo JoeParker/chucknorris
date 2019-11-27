@@ -62,11 +62,6 @@ describe("logic tests", () => {
   		instance = null;
 	});
 
-	it("load joke", () => {
-		instance.fetchJoke();
-		expect(instance.children).textContent.toEqual("John");
-	});
-
 	it("correct first name input", () => {
 		const event = { target:
 			{
