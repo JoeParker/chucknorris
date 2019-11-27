@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo512.png'; // Image courtesy of publicdomainvectors.org
+import logo from './logo.png'; // Image courtesy of publicdomainvectors.org
 import './App.scss';
 
 class App extends React.Component {
