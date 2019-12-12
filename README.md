@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Example React App
 
 Node.js / npm are required to run. Download and verify installation with;
