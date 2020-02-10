@@ -1,4 +1,4 @@
-## Example React App
+## Simple React App using the [Internet Chuck Norris Database](http://www.icndb.com/api/) API
 
 Node.js / npm are required to run. Download and verify installation with;
 
@@ -32,5 +32,3 @@ Launches the test runner in the interactive watch mode.<br />
 Builds the app for production to the `build` folder.<br />
 
 --
-
-Style loosely based on [example Co-operative applications](https://www.co-operative.coop/).
